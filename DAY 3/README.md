@@ -1,4 +1,4 @@
-**Review from an Average Student’s Perspective**
+# **Review from an Average Student’s Perspective**  
 
 ## **Task 1: Data Science Applications Brainstorm**  
 ### **What I Learned:**  
